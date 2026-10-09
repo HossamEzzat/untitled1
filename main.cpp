@@ -7,7 +7,7 @@ int main() {
     int items = 50;
     float cost_per_item = 9.99;
     double total_cost = items * cost_per_item;
-    char currency = '$';
+    string currency = 'Egp';
 
     // Print variables
     cout << "Number of items: " << items << "\n";
